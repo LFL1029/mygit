@@ -4,6 +4,8 @@ public class iamxb {
     }
     public void version(){
         //感谢关注我的微信公众号以及科尔
+
+ String a = "ddd";
     }
 
 }
